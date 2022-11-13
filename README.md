@@ -13,19 +13,15 @@
    <a href="https://github.com/JohnPetros/nlw-copa/commits/main">
       <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/nlw-copa">
    </a>
-   <a href="https://github.com/JohnPetros/nlw-copa/issues">
-      <img alt="GitHub Issues" src="https://img.shields.io/github/issues/JohnPetros/nlw-copa">
-   </a>
-   <a href="https://github.com/JohnPetros/nlw-copa/pulls">
-      <img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
-   <a href="https://github.com/pabloxt14/NLW-Copa/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/pabloxt14/NLW-Copa?style=social">
   </a>
    </a>
    <a href="https://github.com/JohnPetros/nlw-copa/blob/main/LICENSE.md">
       <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/nlw-copa">
    </a>
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/nlw-copa?style=social">
 </div>
+
+<br>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
