@@ -1,6 +1,6 @@
-<p align="center">
-![nlw-copa-logo](https://user-images.githubusercontent.com/93893533/201498191-fdfb2b2f-184a-4fe1-bde8-c24ee6a5006b.svg)
-</p>
+<h1 align="center">
+    <img alt="NLW-copa" title="" src=".github/logo-nlw-copa.svg" width="250px" />
+</h1>
 
 <h1 align="center">
   NLW - Copa
