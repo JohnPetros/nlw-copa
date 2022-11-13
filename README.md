@@ -2,10 +2,6 @@
     <img alt="NLW-copa" title="" src=".github/logo-nlw-copa.svg" width="250px" />
 </h1>
 
-<h1 align="center">
-  NLW - Copa
-</h1>
-
 <div align="center">
    <a href="https://github.com/mathrb22">
       <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-yellow">
@@ -30,7 +26,10 @@
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-direitos">Direitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contato">Contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -144,7 +143,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone  https://github.com/johnpetros/nlw-copa.git
+$ git clone  https://github.com/JohnPetros/nlw-copa.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw-copa
@@ -197,7 +196,7 @@ O layout das telas da aplicação **NLW Copa** foi desenvolvido pela equipe da *
 ![mobile-demonstration](https://user-images.githubusercontent.com/93893533/201499925-d968436b-6895-402b-91c7-f008ef735c37.png)
 Você pode acessar o layout através deste link: [**NLW Copa**](https://www.figma.com/community/file/1169028343875283461). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-## 💪 Como contribuir para o projeto
+## 💪 Como contribuir
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
